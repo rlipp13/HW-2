@@ -1,0 +1,8 @@
+div {font-variant: normal; margin: 0; width:100%; float:none; }
+a, a:visited {color: black; font-size:12pt; font-weight:bold;}
+h1 {font-size:16pt; }
+h2 {font-size:14pt; }
+h3 {font-size:12pt; }
+.footer{ display:none; }
+hr {display:none;}
+body{font-size:10pt;}
